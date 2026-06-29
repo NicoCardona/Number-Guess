@@ -67,3 +67,5 @@ read USERNAME
 CONSULTAR_USERNAME
 PLAY_GAME
 HACER_REGISTRO
+
+# Agregando comentarios para el pull request
