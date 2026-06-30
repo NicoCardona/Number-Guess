@@ -67,3 +67,5 @@ read USERNAME
 CONSULTAR_USERNAME
 PLAY_GAME
 HACER_REGISTRO
+
+# Haciendo pruebas con trello en n8n
